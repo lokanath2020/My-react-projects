@@ -36,6 +36,7 @@ const Translate = () => {
 						value={text}
 						onChange={(e) => setText(e.target.value)}
 					/>
+					<div>adding changes to see how to use the git reset</div>
 				</div>
 			</div>
 			<Dropdown
