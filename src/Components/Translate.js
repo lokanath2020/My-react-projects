@@ -36,7 +36,6 @@ const Translate = () => {
 						value={text}
 						onChange={(e) => setText(e.target.value)}
 					/>
-				<div>adding a change to jsut check it can be reverted or not</div>
 				</div>
 			</div>
 			<Dropdown
